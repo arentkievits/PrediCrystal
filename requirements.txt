@@ -1,0 +1,8 @@
+mrcfile
+numpy
+pandas
+pyserialem
+scipy
+tifffile
+pyyaml
+tqdm

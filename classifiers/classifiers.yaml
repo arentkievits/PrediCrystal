@@ -1,0 +1,15 @@
+lacey:
+  train_size: 1024
+  train_mag_index: 15
+  object: normalized_lacey_object_classification.ilp
+  pixel: normalized_lacey_pixel_classification.ilp
+holey:
+  train_size: 1024
+  train_mag_index: 14
+  object: normalized_holey_object_classification.ilp
+  pixel: normalized_holey_pixel_classification.ilp
+lta:
+  train_size: 1024
+  train_mag_index: 14
+  object: lta_object_classification.ilp
+  pixel: lta_pixel_classification.ilp
