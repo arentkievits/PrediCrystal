@@ -2,6 +2,8 @@
 
 PrediCrystal is a computational workflow for machine learning prediction of crystal positions in serial electron diffraction (SED). In short, it finds crystal positions on low magnification images of TEM grids and labels them according to size and morphology. This workflow makes use of a random forest classifier implemented in ilastik (Berg, 2019). It is Python-based and was developed on a JEOL JEM1400 electron microscope as part of a graduate student project.
 
+Developed by Arent Kievits and Stef Smeets
+
 ## Installation
 
 To use PrediCrystal, you need to install ilastik. The latest version of ilastik can be downloaded at https://www.ilastik.org/download.html. PrediCrystal has been tested with ilastik 1.3.2 and 1.3.3. Please also run `requirements.txt` to install the required Python libraries for the scripts. To install the requirements with pip:
